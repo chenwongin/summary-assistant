@@ -1,0 +1,4 @@
+interface:
+  display_name: "概要说明助手"
+  short_description: "把复杂工作讲清楚，撰写或审阅项目概要、阶段进展、周报与短期汇报"
+  default_prompt: "使用 $briefing-summary-assistant-zh，依据当前项目的最新材料，为首次接触项目的读者写出重点明确、事实准确的中文概要说明。"
